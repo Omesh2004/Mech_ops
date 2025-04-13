@@ -10,9 +10,9 @@ turbulence effects.
 ## Physical Model
 
 ### Sheet Properties:
-- Dimensions: 20 cm × 15 cm × 0.1 cm
+- Dimensions: 20 cm Ã— 15 cm Ã— 0.1 cm
 - Mass: 10 grams
-- Moment of Inertia: 0.000052 kg·m²
+- Moment of Inertia: 0.000052 kgÂ·mÂ²
 
 ### Initial Conditions:
 - Initial Position: (0, 1.5) m
@@ -21,7 +21,7 @@ turbulence effects.
 - Initial Angular Velocity: 0 rad/s
 
 ### Forces and Effects Considered:
-1. **Gravity**: Constant downward force (m·g)
+1. **Gravity**: Constant downward force (mÂ·g)
 2. **Drag Force**: Depends on projected area, drag coefficient, velocity squared, and Reynolds number
 3. **Lift Force**: Depends on angle of attack, projected area, lift coefficient, and velocity squared
 4. **Rotation**: Full rotational dynamics with torque from aerodynamic forces
@@ -53,7 +53,7 @@ turbulence effects.
 - Maximum Horizontal Displacement: 0.84 m
 - Maximum Velocity: 2.75 m/s
 - Maximum Angular Velocity: 16.99 rad/s
-- Maximum Angular Momentum: 0.0009 kg·m²/s
+- Maximum Angular Momentum: 0.0009 kgÂ·mÂ²/s
 - Maximum Reynolds Number: 36717
 - Maximum Lift Force: 0.3367 N
 - Maximum Drag Force: 0.1882 N
