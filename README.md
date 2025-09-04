@@ -48,6 +48,8 @@ turbulence effects.
 
 ## Results Summary
 
+<img width="3000" height="2400" alt="falling_sheet_3d" src="https://github.com/user-attachments/assets/3c11eafe-5f73-419d-b089-031b80b2ef86" />
+
 ### Motion Analysis:
 - Total Fall Time: 0.91 seconds
 - Maximum Horizontal Displacement: 0.84 m
